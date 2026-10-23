@@ -44,39 +44,6 @@ An interactive, responsive, neon-gaming style friendship quiz website built with
 
 ---
 
-## 📚 25-Question Bank Reference
-
-The quiz draws from these 25 verified facts about Prashant:
-
-| # | Question | Correct Answer |
-|---|---|---|
-| **1** | What does Prashant value most in a friend? | **Understanding** |
-| **2** | What is Prashant's biggest life goal? | **To become a successful entrepreneur** |
-| **3** | How many female friends does Prashant have? | **2** |
-| **4** | What is Prashant's current love-life situation? | **He is single, with no current love-life scene** |
-| **5** | What kind of support does Prashant expect from friends during difficult times? | **Support without judging him** |
-| **6** | What makes Prashant angry the most? | **Disrespect or insults** |
-| **7** | What is the most important quality in a true friend for Prashant? | **Understanding him without needing everything explained** |
-| **8** | What does Prashant prefer when he is in a bad mood? | **Being alone with his thoughts** |
-| **9** | How does Prashant usually react when a friend upsets him? | **He acts normal but feels hurt inside** |
-| **10** | What does Prashant check before becoming close friends with someone? | **Whether their vibes match** |
-| **11** | What is Prashant's friendship style with close friends? | **Funny and playful** |
-| **12** | What does Prashant do when someone breaks his trust? | **It depends on the situation and the mistake** |
-| **13** | How much does Prashant share with his close friends? | **Almost everything** |
-| **14** | What does Prashant do when a friend is in trouble? | **Immediately looks for a solution** |
-| **15** | What is one of Prashant's weaknesses in friendship? | **Overthinking small things** |
-| **16** | What does Prashant often do in his free time? | **Sit alone, think, or plan his future** |
-| **17** | What kind of life does Prashant dream of? | **A peaceful, happy, tension-free life** |
-| **18** | What does Prashant do when he feels hurt inside? | **Stays alone and thinks things through** |
-| **19** | What is Prashant's biggest fear? | **Not achieving his goals** |
-| **20** | What is Prashant's favourite free-time vibe? | **Peaceful solitude, thinking, and relaxing** |
-| **21** | How does Prashant react when he gets very angry? | **He reacts immediately in anger** |
-| **22** | How does Prashant show loyalty to a friend? | **He stands by the friend even when the situation is difficult** |
-| **23** | What might Prashant do when his friend group is quiet? | **Playfully tease his friends to make the atmosphere funny** |
-| **24** | What kind of behaviour from friends irritates Prashant? | **It depends on the situation** |
-| **25** | With whom does Prashant share his personal problems? | **Only with a trusted best friend** |
-
----
 
 ## 🛠️ Customization Guide
 
